@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Vue project
+- 🌱 I’m currently learning Go and Dotnet Core 
+- 👯 I’m looking to collaborate on fullstack position
+- 💬 Ask me about collaboration availability to fun projects
+- 📫 How to reach me: gilberto.barroso.ferreira@gmail.com
