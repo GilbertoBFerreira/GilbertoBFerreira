@@ -1,4 +1,4 @@
-### Hi! I am Gilberto Ferreira, a computer engineer passionate by web development and a maker in my free time.
+### Hi! I am Gilberto Ferreira, a computer engineer passionate by web development and a DIY maker.
 I like meet people, challenges, rest, play some notes with my accordion and ride my bike in the mountain.
 
 <!--
